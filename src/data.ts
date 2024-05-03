@@ -23,7 +23,7 @@ export default {
         "bottom_left_5": bottom_left_5,
         "left_1": left_1,
         "left_2": left_2,
-        "left_3": left_3,
+        "left_3": left_3,cc
         "left_4": left_4,
         "left_5": left_5,
         "top_left_1": top_left_1,
