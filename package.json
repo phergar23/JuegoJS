@@ -11,7 +11,7 @@
   "author": "Ganlv",
   "license": "MIT",
   "dependencies": {
-    "phaser": "^3.16.1"
+    "phaser": "^3.17.1"
   },
   "devDependencies": {
     "@babel/core": "^7.2.2",
