@@ -4,7 +4,7 @@ const CopyWebpackPlugin = require('copy-webpack-plugin');
 const babelLoader = {
   loader: 'babel-loader',
   options: {
-    cacheDirectory: true,
+    cacheDirectory: false,
     presets: [
       '@babel/preset-env'
     ]
